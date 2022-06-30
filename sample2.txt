@@ -4,3 +4,4 @@ qwerty
 modified to compare 
 compare between local and remote
 branching and merging practice
+Practice Automatic merge
