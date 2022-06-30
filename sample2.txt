@@ -2,3 +2,4 @@ Another sample for gitpractice2
 modify
 qwerty
 modified to compare 
+compare between local and remote
