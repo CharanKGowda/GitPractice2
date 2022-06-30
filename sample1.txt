@@ -1,4 +1,6 @@
 Sample File
 For Git practice
 For Automatic merge practice
-Conflict resolution between both
+
+For conflict resolution
+>>>>>>> branch1
