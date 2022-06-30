@@ -1,2 +1,3 @@
 Sample File
 For Git practice
+For Automatic merge practice
